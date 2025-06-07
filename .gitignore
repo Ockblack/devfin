@@ -1,0 +1,8 @@
+# Ignora arquivos temporários, logs e uploads (ajuste conforme suas futuras pastas!)
+*.log
+*.tmp
+*.bak
+uploads/
+.env
+.DS_Store
+Thumbs.db
